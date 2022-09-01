@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/Iandlley">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iandlley&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iandlley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iandlley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iandlley&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### :computer: Stacks
@@ -15,10 +15,8 @@
 ### :telephone_receiver: Contato:
 
 <div>
-<a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"></a>
-<a href="https://www.facebook.com/profile.php?id=100009538581015" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" target="_blank"></a>  
-  
-  
+  <a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100009538581015" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" target="_blank"></a>  
 </div>
 
 
