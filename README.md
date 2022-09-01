@@ -1,4 +1,4 @@
-## 👋 Hello! Welcome to my Github profile!
+## :blush: Hello! Welcome to my Github profile!
 ### :octocat: My name is Iandlley and I'm a Back-End Developer!
 
 <br>
