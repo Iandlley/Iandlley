@@ -12,8 +12,7 @@
 ### :telephone_receiver: Contato:
 
 <div>
-<a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"></a><a href="https://www.facebook.com/profile.php?id=100009538581015" target="_blank"><img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-" width="80" height="80" target="_blank"></a>
+<a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"></a><a href="https://www.facebook.com/profile.php?id=100009538581015" target="_blank"><img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="80" height="80" target="_blank"></a>
   
   
 </div>
