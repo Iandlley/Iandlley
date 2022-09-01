@@ -12,7 +12,7 @@
 ### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+<a href="https://www.linkedin.com/in/iandlley-webdeveloper/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"></a>
 </div>
 
 
