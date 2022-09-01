@@ -21,6 +21,7 @@
 
 ### BADGES
 
-<img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1659462279Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3.png" width="80" height="80"/>
+  <img src="https://user-images.githubusercontent.com/105615079/188028335-431466fd-125c-4bc0-bda7-ca8de1fea680.png" width="80" height="80"/><img src="https://user-images.githubusercontent.com/105615079/188028507-a600249a-cf75-426e-861e-99f92409db58.png" width="80" height="80"/>
+
 
 
