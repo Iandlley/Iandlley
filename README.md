@@ -1,8 +1,11 @@
 ## 👋 Hello! Welcome to my Github profile!
 ### :octocat: My name is Iandlley and I'm a Back-End Developer!
 
-
-
+<div>
+<a href="https://github.com/Iandlley">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### :computer: Stacks
 
