@@ -27,7 +27,7 @@
 <br>
 
 ### :books: BADGES
-.
+
   <img src="https://user-images.githubusercontent.com/105615079/188028335-431466fd-125c-4bc0-bda7-ca8de1fea680.png" width="80" height="80"/><img src="https://user-images.githubusercontent.com/105615079/188028507-a600249a-cf75-426e-861e-99f92409db58.png" width="80" height="80"/>
 
 
