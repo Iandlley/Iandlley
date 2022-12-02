@@ -28,7 +28,7 @@
 
 ### :books: BADGES
 
-  <img src="https://user-images.githubusercontent.com/105615079/188028335-431466fd-125c-4bc0-bda7-ca8de1fea680.png" width="80" height="80"/><img src="https://user-images.githubusercontent.com/105615079/188028507-a600249a-cf75-426e-861e-99f92409db58.png" width="80" height="80"/><img src="https://camo.githubusercontent.com/b72c435034bc44a769b76163930aac3673396afb87f6634a1dcf917f3aa2c6ab/68747470733a2f2f692e696d6775722e636f6d2f36634a4f4a6d392e706e67" width="80" height="80"/>
+  <img src="https://user-images.githubusercontent.com/105615079/188028335-431466fd-125c-4bc0-bda7-ca8de1fea680.png" width="80" height="80"/><img src="https://user-images.githubusercontent.com/105615079/188028507-a600249a-cf75-426e-861e-99f92409db58.png" width="80" height="80"/><img src="https://camo.githubusercontent.com/b72c435034bc44a769b76163930aac3673396afb87f6634a1dcf917f3aa2c6ab/68747470733a2f2f692e696d6775722e636f6d2f36634a4f4a6d392e706e67" width="80" height="80"/><img src="https://camo.githubusercontent.com/19fc1f6be499504b175bf54197a94f4674527f1dc470092f471471333688b4ac/68747470733a2f2f692e696d6775722e636f6d2f4343373636306c2e706e67" width="80" height="80"/><img src="https://camo.githubusercontent.com/c9f2e3710e14f6ee3cc7ddc52d034a7b795f667dab01f72b1874613199fc76a9/68747470733a2f2f692e696d6775722e636f6d2f6c634c394b4d322e706e67" width="80" height="80"/>
 
 
 
